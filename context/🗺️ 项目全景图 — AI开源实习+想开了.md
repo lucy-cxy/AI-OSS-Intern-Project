@@ -1,7 +1,7 @@
 # 🗺️ 项目全景图 — AI开源实习 · 想开了 · OSS Scorecard
 
 > **用途：** 这是三个互联项目的主 context 层，供 Claude 和你随时查阅。  
-> **最后更新：** 2026-06-07  
+> **最后更新：** 2026-06-14  
 > **涉及资产：** [[r2cn.dev 开源实习平台]] · [[想开了 OpenTalk]] · [[OSS Investment Scorecard]]
 
 ---
@@ -181,6 +181,7 @@ EP6 成品（mp3 + mp4 + 封面图）
 - Stars：55 | Forks：14（Day 2 上午）
 - Stars：302 | Forks：42（2026-05-31 自动更新）
 - Stars：307 | Forks：43（2026-06-07 自动更新）
+- Stars：309 | Forks：42（2026-06-14 自动更新）
 
 ### HN
 - 状态：Shadowban 中，每日测试
