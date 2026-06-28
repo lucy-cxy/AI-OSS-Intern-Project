@@ -1,7 +1,7 @@
 # 🗺️ 项目全景图 — AI开源实习 · 想开了 · OSS Scorecard
 
 > **用途：** 这是三个互联项目的主 context 层，供 Claude 和你随时查阅。  
-> **最后更新：** 2026-06-21  
+> **最后更新：** 2026-06-28  
 > **涉及资产：** [[r2cn.dev 开源实习平台]] · [[想开了 OpenTalk]] · [[OSS Investment Scorecard]]
 
 ---
